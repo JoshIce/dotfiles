@@ -12,7 +12,6 @@ source ~/.config/transient_prompt.zsh
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"
 export EDITOR="nvim"
-export GITHUB_ACCESS_TOKEN=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
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=241'
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
